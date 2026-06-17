@@ -1,7 +1,8 @@
 # 💫 About Me:
 <br>👋 Hi, I'm **Rupesh Dubey**<br>
 
-    Email Me 👉 ✉️ **rupeshdubey1079.com** For Collaboration/Project or Anything Else. 😊😊
+    Email Me 👉 ✉️ **rupeshdubey1079@gmail.com
+    ** For Collaboration/Project or Anything Else. 😊😊
   
 <br>🎓 B.Tech CSE (AI & ML) Student | Class of 2026<br><br>🤖 AI Enthusiast • 📊 Data Analyst • 💻 Problem Solver • 🚀 Lifelong Learner<br><br>🔍 Passionate about exploring the intersection of **Artificial Intelligence, Machine Learning, Data Analytics, and Innovation**.<br><br>📚 Currently focused on strengthening my expertise in AI, Data Science, and Analytics while continuously building projects that solve real-world challenges.<br><br>🏆 Co-author of an IEEE Research Paper on **Explainable AI (XAI)** in healthcare applications.<br><br>🌱 Always curious about emerging technologies and how they can create meaningful impact.<br><br>💼 Open to:<br>✨ AI/ML Opportunities<br>✨ Data Analytics Roles<br>✨ Research Collaborations<br>✨ Innovative Tech Projects<br><br>⚡ Fun Fact: I love learning new technologies, mentoring students, and turning ideas into reality through code.<br><br>📍 India 🇮🇳
 
